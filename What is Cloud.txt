@@ -1,0 +1,50 @@
+What is Cloud
+
+Cloud
+Any Information which we could access from internet is called as Cloud.
+
+Network
+Exchange or Transfer of data between 2 or more systems is called Network.
+
+Internet
+Allows to access the data between the systems is called Internet.
+
+If we consider Amazon/Instagram they purchase the database in cloud and store the information which users require in the database and we would
+be able to access the data required which is stored in database of Amazon from Internet.
+
+Amazon/Instagram developed database in the form of application and made it accessible to required users by deploying in the cloud.
+
+Cloud not only stores files,images,documents,audio,videos but also provides Computing Services ie; Applications, Platform, Infrastructure, Storage, Databases,
+Networking, Developments, Deployments, Business Processes.
+
+Cloud can be accessed using remote servers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
